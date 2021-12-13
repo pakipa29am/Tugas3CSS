@@ -1,0 +1,20 @@
+p{
+    background-color: gray;
+}
+.p1{
+    background-color: orange;
+}
+.p2{
+    background-color: blue;
+    color: white;
+}
+.p3{
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.p4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;   
+}
